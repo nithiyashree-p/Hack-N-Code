@@ -1,4 +1,4 @@
-# Hack-N-Code
+
 # TEAM NAME
 
 Team T
