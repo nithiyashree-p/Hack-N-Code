@@ -1,5 +1,5 @@
 # Hack-N-Code
-#TEAM NAME
+# TEAM NAME
 
 Team T
 
