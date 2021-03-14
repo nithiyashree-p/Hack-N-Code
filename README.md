@@ -11,7 +11,7 @@ Design a hack or tool that you would use to educate a family member about climat
 We have come up with an application which can educate family members and even kids about the climate change through some Online courses, YouTube videos, News about climate change, Weather report etc... And the major thing is our contribution towards this climate change is certainly necessary. Can check our knowledge about climate change by attending quizzes.This application can be used by all famiy members to gain knowledge about climate change.We can calculate carbon footprint and it also provides measures to reduce the carbon foot print which affects the climate change. Kids role section also helps in teaching them about their contribution.
 
 # Demo Link
-
+Watch this youtube video that explains the working of the application
 https://youtu.be/gvTFSiISy-g
 
 # Screenshots
