@@ -18,13 +18,21 @@ https://youtu.be/gvTFSiISy-g
 # Instructions
 
 Step 1: Place the php folder(climatechange) inside the htdocs folder under xampp.
+
+
 Step 2: Import the SQL file present in climatechange folder to phpMyAdmin.
+
+
 Step 3: Get the link using ngrok port forwarding
+
+
 Step 4: Replace the link inside the config java file
+
+
 Step 5: Install the application 
 
 
-https://youtu.be/gvTFSiISy-g
+
 
 # Screenshots
 
